@@ -2,9 +2,9 @@
 
 Todo applikació
 
-Adatbázis: Mongodb
-Szerver: nodejs , express
-Kliens: reactjs
+### Adatbázis: Mongodb
+### Szerver: nodejs , express
+### Kliens: reactjs
 
 ## Dependenciák
 
