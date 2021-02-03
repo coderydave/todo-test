@@ -1,6 +1,10 @@
 ## Leírás
 
-blaabllaaa
+Todo applikació
+
+Adatbázis: Mongodb
+Szerver: nodejs , express
+Kliens: reactjs
 
 ## Dependenciák
 
