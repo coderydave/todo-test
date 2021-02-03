@@ -1,0 +1,11 @@
+.task-container {
+  min-width: 480px;
+  min-height: 600px;
+  width: 100%;
+  max-width: 45rem;
+  margin: 1em auto;
+  overflow: auto;
+  background-color: white;
+  box-shadow: 0px 0.25rem 1rem rgba(black, 0.25);
+  border-radius: 0.5rem;
+}

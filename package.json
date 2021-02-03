@@ -1,0 +1,12 @@
+{
+  "name": "idomsoft-test",
+  "version": "1.0.0",
+  "description": "IdomSoft teszt feladat",
+  "scripts": {
+    "preinstall": "cd client && npm i && cd ../server && npm i && cd ..",
+    "build": "cd client && npm run build",
+    "start": "node server"
+  },
+  "author": "IdomSoft Zrt. <hr@idomsoft.hu>",
+  "license": "ISC"
+}

@@ -1,0 +1,17 @@
+.list-root{
+    width: '100%';
+    background-color: "white";
+    padding: "0px";
+    margin: "0px";
+}
+.MuiListItem-gutters {
+    padding-left: 32px !important;
+}
+
+.MuiIconButton-root {
+    padding: 6px !important;
+}
+.MuiTypography-body2 {
+    color:#757575;
+    font-size: 1.3rem !important;
+}
